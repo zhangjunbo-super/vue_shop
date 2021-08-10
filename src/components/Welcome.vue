@@ -1,5 +1,12 @@
 <template>
-    <div class="welcome">欢迎来到super后台</div>
+    <div class="welcome">欢迎来到super后台
+        欢迎来到super后台
+        欢迎来到super后台
+        <div>欢迎来到super后台</div>
+        <div>
+            欢迎来到super后台
+        </div>
+    </div>
 </template>
 <style scoped>
     .welcome{
