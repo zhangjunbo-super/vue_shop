@@ -1,5 +1,6 @@
 <template>
-    <div class="welcome">欢迎来到super后台
+    <div class="welcome">
+        欢迎来到super后台
         欢迎来到super后台
         欢迎来到super后台
         <div>欢迎来到super后台</div>
